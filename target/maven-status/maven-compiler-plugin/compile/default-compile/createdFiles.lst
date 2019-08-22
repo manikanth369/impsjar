@@ -1,0 +1,9 @@
+sample\repository\CatSimpleViewRepository.class
+sample\Application.class
+sample\model\Person.class
+sample\view\CatSimpleView.class
+sample\view\PersonSimpleView.class
+sample\view\CatWithOwnerView.class
+sample\config\BlazePersistenceConfiguration.class
+sample\config\SampleController.class
+sample\model\Cat.class
